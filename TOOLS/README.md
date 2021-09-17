@@ -1,0 +1,2 @@
+* From Stephanie (2021-09-16): Check of the variability in Surface Salinity (comp. GAI-GAIa)  [[slides]]() [[notebook]](https://github.com/imhotep-project/imhotep-project-on-github/blob/main/TOOLS/NOTEBOOKS/2021-09-16_SLX_JZ_IMHOTEP_SSS_compEXP_shared.ipynb).
+* From Jean-Marc (2021-09-16): Look at surface salinity data and comparison between experiments [[scripts]](https://github.com/molines/IMHOTEP/tree/master/TOOLS),
